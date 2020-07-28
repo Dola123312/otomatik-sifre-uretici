@@ -14,3 +14,5 @@ dedim acaba misal 16 karakter uzunluğunda nası yapabilirim
     }
 dedim(sonucu önceden boş olarak tanımlamıştım)
 hepsinin birleşimindede ortaya bu çıktı
+bu programla oluşan şifrelerden örnek : mTNnHHQ2FJfOCl6F,DYrYQUTRuraAhTr2,6GAJ8E2gh82JQxED,1UcqRXuht3qZQNPX,f70sQDAZAklCDT7o
+tabikide siz değerlerin için daha çok şey ekelyip daha çeşitli yapabilirsiniz
