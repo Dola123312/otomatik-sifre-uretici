@@ -1,4 +1,4 @@
-# otomatik şifre üretici
+# otomatik şifre üreticisini oluşturma serüvenim :D
 + internette biraz araştırma yapıyodum şunu gördüm charAt dedim bune biraz araştırdım örnek
 - var değerler = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789"
 + diye bişey oluşturdum sonra dedimki değerler.charAt(8) bu değerlerin içinden 8. yi seç, sonra dedim neden şifre oluşturucu yapamiyim
